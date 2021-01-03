@@ -2,6 +2,11 @@ It is recommended that the ⚡️battery⚡️ of a device is between 45% and 80
 
 **Emacs Lisp 100.0%**
 
+# Requirements
+
+- Emacs or an Emacs Lisp compatible interpreter.
+- MacOS.
+
 # Run
 
 ``` shell
