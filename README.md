@@ -1,6 +1,6 @@
 MacOS alert if the battery exceeds certain percentage charge limits to maintain health.
 
-100% Elisp!
+**Emacs Lisp 100.0%**
 
 # Run
 
