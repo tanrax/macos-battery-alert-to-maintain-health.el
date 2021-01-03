@@ -15,7 +15,7 @@ emacs --no-init-file --no-site-file --script macos-battery-alert-to-maintain-hea
 
 # Cron
 
-Automates to check every 10 minutes.
+Automates to check every minute.
 
 Open `crontab`.
 
@@ -26,5 +26,5 @@ crontab -e
 Add the following line. Be sure to change the path of the script.
 
 ``` shell
-*/6 * * * * emacs --no-init-file --no-site-file --script macos-battery-alert-to-maintain-health.el
+* * * * * emacs --no-init-file --no-site-file --script macos-battery-alert-to-maintain-health.el
 ```
