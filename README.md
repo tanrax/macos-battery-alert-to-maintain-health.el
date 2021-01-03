@@ -1,4 +1,4 @@
-MacOS alert if the battery exceeds certain percentage charge limits to maintain health.
+It is recommended that the ⚡️battery⚡️ of a device is between 45% and 80% to extend its life. This script alert if the battery exceeds certain percentage charge limits to maintain health. Only for MacOS.
 
 **Emacs Lisp 100.0%**
 
